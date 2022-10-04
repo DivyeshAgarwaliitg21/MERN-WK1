@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Divyesh Agarwal",
+      "mobile": "999",
+      "email": "getlost.getlost.com",
+      "password": "bsdk",
+      "id": 2
+    },
+    {
+      "name": "deja",
+      "mobile": "15611",
+      "email": "regergege",
+      "password": "brtgfbr",
+      "id": 3
+    },
+    {
+      "name": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "dvd",
+      "mobile": "622",
+      "email": "ffnfn",
+      "password": "gnfn",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
